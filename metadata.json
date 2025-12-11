@@ -1,5 +1,5 @@
 {
-  "name": "Genius Data Co-Pilot",
+  "name": "Vision CSV",
   "description": "An intelligent data analysis assistant that generates strategic Python analysis code and interactive visualizations from dataset descriptions.",
   "requestFramePermissions": []
 }
